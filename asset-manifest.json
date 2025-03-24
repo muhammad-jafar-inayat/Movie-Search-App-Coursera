@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Movie-Search-App-Coursera/static/css/main.d6b9f338.css",
+    "main.js": "/Movie-Search-App-Coursera/static/js/main.f0c25b48.js",
+    "static/js/453.d150de9e.chunk.js": "/Movie-Search-App-Coursera/static/js/453.d150de9e.chunk.js",
+    "index.html": "/Movie-Search-App-Coursera/index.html",
+    "main.d6b9f338.css.map": "/Movie-Search-App-Coursera/static/css/main.d6b9f338.css.map",
+    "main.f0c25b48.js.map": "/Movie-Search-App-Coursera/static/js/main.f0c25b48.js.map",
+    "453.d150de9e.chunk.js.map": "/Movie-Search-App-Coursera/static/js/453.d150de9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6b9f338.css",
+    "static/js/main.f0c25b48.js"
+  ]
+}
